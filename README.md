@@ -1,1 +1,1 @@
-A repo to write Linux scripts
+a new dir for shell permissions
