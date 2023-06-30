@@ -1,1 +1,1 @@
-Web stack debugging - EffArr
+Web stack debugging
